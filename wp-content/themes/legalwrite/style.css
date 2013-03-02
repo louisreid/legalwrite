@@ -1,0 +1,96 @@
+/*
+Theme Name: WP Bootstrap
+Theme URI: http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
+Description: A demo theme built to accompany the Treehouse blog post <a href="http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial">How to Build a WordPress Theme with Bootstrap</a>.
+Author: Zac Gordon
+Author URI: http://teamtreehouse.com/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
+*/
+
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap-responsive.css'); 
+@import url('http://fonts.googleapis.com/css?family=Judson:400,400italic');
+body { 
+     font-family: 'Judson', serif;
+     height: 100%;
+}
+
+#home_wrapper {
+	margin-top: 200px;
+}
+
+#single_wrapper {
+	margin-top: 100px;
+}
+
+h1 {
+	font-size: 86px;
+	font-weight: normal;
+}
+
+h2 {
+	margin-top:0px;
+	font-size: 20px;
+	line-height: 25px; 
+}
+
+h3 {
+	font-size: 68px;
+	font-weight: normal;
+}
+
+h4 {
+	font-size: 40px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+
+i {
+	color: #414141;
+}
+
+a:hover, a:link, a:visited, a:active {
+	text-decoration: none;
+	color:black;
+}
+
+
+.example {
+	color: white;
+	font-size: 20px;
+}
+
+.float {
+	padding-left:60px;
+}
+
+.image {
+	border-left: 6px black solid; 
+}
+
+
+.content {
+	padding-top: 35px;
+}
+
+.btn {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-right: 40px;
+}
+
+
+#footer {
+	background: #f5f5f5;
+	padding-top: 10px;
+	height:40px;
+	width:100%;
+	position: fixed;
+	bottom:0;
+}
