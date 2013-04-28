@@ -4,7 +4,7 @@
 	<div id="footer">
 		<div class="container">
 		 	<div class="row">
-		 		<div class="span9 offset2">
+		 		<div class="span12 offset1">
 			       	<a href="/" class="btn">Home</a> 
 			       	<a href="/about-us/" class="btn">About Us</a> 
 			       	<a href="/clients/" class="btn">Clients</a> 
