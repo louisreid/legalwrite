@@ -24,7 +24,6 @@ body {
 
 #single_wrapper {
 	margin-top: 100px;
-	margin-bottom: 50px;
 }
 
 h1 {
@@ -111,5 +110,5 @@ a:hover, a:link, a:visited, a:active {
 }
 
 #push {
-	margin-top: 30px;
+	margin-top: 60px;
 }
