@@ -104,10 +104,11 @@ a:hover, a:link, a:visited, a:active {
 
 
 #footer {
-	background: #f5f5f5;
+	background: #d6d6d6;
 	padding-top: 10px;
 	height:80px;
 	width:100%;
 	position: fixed;
+	border-top: dotted black thin;
 	bottom:0;
 }
