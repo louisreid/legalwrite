@@ -93,6 +93,7 @@ a:hover, a:link, a:visited, a:active {
 
 #ft_btn {
 	color: #fff;
+	font-weight: 600;
 }
 
 #example_btn {
