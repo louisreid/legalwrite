@@ -16,6 +16,7 @@ This simple theme was built using the example Bootstrap theme "Basic marketing s
 @import url('bootstrap/css/bootstrap.css'); 
 @import url('bootstrap/css/bootstrap-responsive.css'); 
 @import url('http://fonts.googleapis.com/css?family=Judson:400,400italic');
+@import url('http://fonts.googleapis.com/css?family=Caudex:400,400italic');
 body { 
      font-family: 'Judson', serif;
      height: 100%;
@@ -31,21 +32,25 @@ body {
 
 h1 {
 	font-size: 86px;
+	font-family: 'Caudex', serif;
 	font-weight: normal;
 }
 
 h2 {
+	font-family: 'Caudex', serif;
 	margin-top:0px;
 	font-size: 20px;
 	line-height: 25px; 
 }
 
 h3 {
+	font-family: 'Caudex', serif;
 	font-size: 68px;
 	font-weight: normal;
 }
 
 h4 {
+	font-family: 'Caudex', serif;
 	font-size: 40px;
 	font-weight: normal;
 	margin-bottom: 20px;

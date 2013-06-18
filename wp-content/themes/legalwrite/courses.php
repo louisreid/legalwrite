@@ -22,8 +22,9 @@ Template Name: Courses
 			<?php endif; ?>
 		</div>
 		<div class="span5">
-			<img class="image" src="../images/courses.jpg" />
 			<a id="example_btn" class="btn btn-inverse" href="example_course/"><span class="example">Click here for an Example Course</span></a>	
+			<img class="image" src="../images/courses_1.jpg" />
+			<img class="image" src="../images/courses_2.jpg" />
 		</div>
 	</div>
 </div>
