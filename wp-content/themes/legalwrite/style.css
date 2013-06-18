@@ -1,16 +1,12 @@
 /*
-Theme Name: WP Bootstrap
-Theme URI: http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial
-Description: A demo theme built to accompany the Treehouse blog post <a href="http://teamtreehouse.com/wordpress-bootstrap-theme-tutorial">How to Build a WordPress Theme with Bootstrap</a>.
-Author: Zac Gordon
-Author URI: http://teamtreehouse.com/
+Theme Name: Legalwrite 
+Author: Louis Reid
+Author URI: http://aii-design.co.uk/
 Version: 1.0
-Tags: responsive, white, bootstrap
 
 License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 License URI: http://creativecommons.org/licenses/by-sa/3.0/
 
-This simple theme was built using the example Bootstrap theme "Basic marketing site" found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
 */
 
 @import url('bootstrap/css/bootstrap.css'); 
@@ -111,4 +107,8 @@ a:hover, a:link, a:visited, a:active {
 	position: fixed;
 	border-top: dotted black thin;
 	bottom:0;
+}
+
+#push {
+	margin-top: 30px;
 }
